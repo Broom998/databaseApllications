@@ -117,8 +117,8 @@ erDiagram
 
 | Term | Your definition |
 |---|---|
-| Entity | |
-| Attribute | |
+| Entity |thing data is based on |
+| Attribute |infor about an entity |
 | Natural key |an abbreviation that is interpretted with information ouitside of the database |
 | Surrogate key |a one time value that never changes |
 | Composite key |made from two or more columns that uniquely identifies a value in a table |
